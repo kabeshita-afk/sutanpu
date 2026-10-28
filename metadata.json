@@ -1,0 +1,6 @@
+{
+  "name": "わくわく街歩きスタンプラリー",
+  "description": "社内イベントや商店街の催しで使える合言葉入力型モバイルスタンプラリー。スポットを巡ってスタンプを集め、AI豆知識や達成証を獲得！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
